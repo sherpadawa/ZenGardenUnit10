@@ -17,7 +17,7 @@ Students should only start this project after they have completed the other less
 
 ### Starter code
 
-See [here](starter_code/) for code and [here]() to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/ZenGardenUnit10/master/starter_code/index.html) to view.
 
 ### Solution code
 
