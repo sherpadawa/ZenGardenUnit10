@@ -44,9 +44,14 @@ The CSS Zen Garden is an online competition in which developers design a website
 
 ##Lecture
 
-Students are going to design their own website using the Zen garden code as a baseinstructions:
+Students are going to design their own website using the Zen garden code as a base:
 
-#### 1. Clone this repo into your own Cloud9 account workspace
+#### 1. Fork this Repo
+Do this by clicking the Fork button on the top right of this page.
+
+![Imgur](http://i.imgur.com/QYd56DH.png)
+
+#### 2. Clone your repo into your own Cloud9 account workspace
 1. Copy the "clone URL" from this repo
 2. In your Cloud9 dashboard click on the green "Create New Workspace" button and select "Clone from URL"
 
@@ -61,7 +66,7 @@ To push to GitHub run the following commands in your terminal:
 `git commit -m "example comment"`  
 `git push origin master`
 
-#### 2. Fill out `style.css`
+#### 3. Fill out `style.css`
 
 During this project the student is only manipulating the css sheet. Give explicit directions to not alter the HTML in any way.
 
