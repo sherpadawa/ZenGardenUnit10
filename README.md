@@ -33,7 +33,8 @@ There is no solotuion code for this project. However, It is encouraged to have s
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
 2. Return graded do-now and exit ticket from previous class
-3. [Do-now](do_now.md) activity
+3. Students are answering the following question:  
+**What do you feel is more important in a website? The HTML or the CSS?**
 
 ###Opening
 
@@ -43,7 +44,7 @@ The CSS Zen Garden is an online competition in which developers design a website
 
 ##Lecture
 
-You are going to build a simple Facebook Wall. Your instructions:
+Students are going to design their own website using the Zen garden code as a baseinstructions:
 
 #### 1. Clone this repo into your own Cloud9 account workspace
 1. Copy the "clone URL" from this repo
