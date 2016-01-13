@@ -1,0 +1,45 @@
+p{
+    color:pink;
+    margin-top: 0;
+	text-align: justify;
+}
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0urTAa6LcUH61CEJD0L1g0nvTUskSjO6TubYPtnDh-c-SdjF');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+header {
+    text-align: justify;
+    letter-spacing: 1px;
+    height: 8em;
+    padding: 2%;
+    background: #2c3e50;
+    color: #fff;
+}
+h1 {
+	transform: rotate(90deg);
+	transform-origin: left top 0;
+	text-align: center;
+    color:red;
+}
+
+   
+
+p {
+    border-style: solid;
+    border-top: thick double #ff0000;
+  border-bottom-style: dotted;
+}
+table {
+    border-collapse: collapse;
+}
+
+
+h3{
+   background-image:url("http://img09.deviantart.net/8e93/i/2013/248/1/f/mini_edolas_by_afrillia-d6l3c61.png"); 
+}
+.image{
+    content:url(https://s-media-cache-ak0.pinimg.com/736x/df/25/ea/df25ea2e0fbef120bf1472b70d55e4db.jpg);
+}
